@@ -115,6 +115,7 @@ cd frontend
 npm install
 npm start
 Add .env files for your MongoDB, Cloudinary, JWT, Stripe, etc.
+```
 
 ## 🙋‍♂️ Author
 
