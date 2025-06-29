@@ -1,0 +1,169 @@
+/*
+Template Name: Estate Broker
+File: Layout CSS
+Author: TemplatesOnWeb
+Author URI: https://www.templateonweb.com/
+Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
+*/
+/*********************blog****************/
+.news_ho .news_h_1il {
+    background: #f4f4f4;
+}
+
+#blog_dt {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.blog_dt1l1 ul li {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.blog_dt1l1 ul li i {
+    margin-right: 5px;
+}
+
+.blog_dt1l1 blockquote {
+    margin: 30px 0 30px;
+    font-size: 16px;
+    border-left: 5px solid #009373;
+    background: #f4f4f4;
+    font-style: italic;
+    padding: 25px 35px 15px;
+}
+
+.sign {
+    text-align: right;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 16px;
+}
+
+.blog_dt1l3 ul li a {
+    background: #f4f4f4;
+    padding: 8px 18px 5px 18px;
+    display: block;
+}
+
+.blog_dt1l3 ul li a:hover {
+    background: #009373;
+    color: #fff;
+}
+
+.blog_dt1l35 {
+    background: #fafafa;
+    padding: 30px 15px;
+}
+
+.blog_dt1r1 .form-control {
+    height: 46px;
+    font-size: 16px;
+    border-color: #ddd;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.blog_dt1r1 .input-group .btn {
+    background: #009373;
+    margin-left: 0 !important;
+    padding: 10.1px 20px;
+    font-size: 16px;
+    border-radius: 0;
+    border-color: #009373;
+}
+
+.blog_dt1r2 .social-circle li a {
+    background: #009373;
+}
+
+.blog_dt1r3 ul li a {
+    background: #fff;
+    padding: 8px 18px 5px 18px;
+    display: block;
+    margin: 3px 1px;
+}
+
+.blog_dt1r3 ul li a:hover {
+    background: #009373;
+    color: #fff;
+}
+
+.blog_dt1r3 ul li {
+    display: inline-block;
+}
+
+.blog_h1i {
+    box-shadow: 0px 0px 8px 1px #d7d6d6;
+    padding: 10px;
+}
+
+.quote_2l .form-control {
+    background: none;
+    height: 50px;
+    font-size: 16px;
+    color: #999;
+    border-radius: 0;
+}
+
+.news_h_1il h6 {
+    font-size: 14px;
+    color: #999;
+}
+
+.news_h_1i {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+.news_h_1il {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/*********************blog_end****************/
+
+
+
+@media screen and (max-width : 767px) {
+    .blog_dt1l3 ul li a {
+        margin-bottom: 5px;
+    }
+
+    .blog_dt1l34il img {
+        width: auto !important;
+        margin-bottom: 10px;
+    }
+
+    .blog_dt1r {
+        margin-top: 20px;
+    }
+
+    .blog_dt1r1 h6 {
+        font-size: 14px;
+    }
+
+    .blog_dt1r1ir {
+        margin-top: 10px;
+    }
+
+    .blog_h1i {
+        margin-top: 10px;
+    }
+
+    .quote_2l .form-control {
+        margin-top: 10px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .blog_dt1r1 h6 {
+        font-size: 12px;
+    }
+
+    .blog_dt1r2 ul.social-network li {
+        margin-bottom: 5px;
+    }
+
+}
