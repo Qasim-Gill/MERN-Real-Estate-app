@@ -120,17 +120,40 @@ Add .env files for your MongoDB, Cloudinary, JWT, Stripe, etc.
 
 **Muhammad Qasim**  
 🧑‍💻 Passionate Full-Stack Developer  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-gill/)
 
-![payment confirm page](https://github.com/user-attachments/assets/a01e49e9-34b4-4af1-91fb-a14e1fe4d081)
-![stripe payment page](https://github.com/user-attachments/assets/d1663c55-aa27-4b0b-b0bf-542b045615d1)
-![payment confirmation page after successfully](https://github.com/user-attachments/assets/99042966-50cf-433f-b9bf-bf858b449627)
-![homepage](https://github.com/user-attachments/assets/b39a6b5e-478e-4dcf-9249-7cb46cd6d5ed)
-![properties search res](https://github.com/user-attachments/assets/479946ca-25b9-40eb-87cf-468488e2d09c)
-![member search res](https://github.com/user-attachments/assets/1d3dfc74-0f31-4a85-98dd-9d61167c660c)
-![navbar](https://github.com/user-attachments/assets/8fa1e7ff-a6f4-4b5a-8ae9-c6139509ea5f)
-![post property form](https://github.com/user-attachments/assets/f1033ae2-1c3e-4e3f-a48a-49b219eedc17)
-![login page](https://github.com/user-attachments/assets/de9a65e3-fd74-4545-be2c-2e3d558202e6)
-![signup form](https://github.com/user-attachments/assets/63f11929-a77b-4ae5-ba93-423616afb586)
-![membership plan page](https://github.com/user-attachments/assets/58eed575-5604-46ee-a15c-f43177251569)
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-qasim-gill/)  
+
+---
+
+## 🖼️ App Screenshots
+
+### 💳 Payment & Membership
+
+![Stripe Payment Page](https://github.com/user-attachments/assets/d1663c55-aa27-4b0b-b0bf-542b045615d1)
+![Payment Confirmation Page](https://github.com/user-attachments/assets/99042966-50cf-433f-b9bf-bf858b449627)
+![Payment Confirmed](https://github.com/user-attachments/assets/a01e49e9-34b4-4af1-91fb-a14e1fe4d081)
+![Membership Plans](https://github.com/user-attachments/assets/58eed575-5604-46ee-a15c-f43177251569)
+
+---
+
+### 🏡 Property & Member Search
+
+![Home Page](https://github.com/user-attachments/assets/b39a6b5e-478e-4dcf-9249-7cb46cd6d5ed)
+![Property Search Results](https://github.com/user-attachments/assets/479946ca-25b9-40eb-87cf-468488e2d09c)
+![Member Search Results](https://github.com/user-attachments/assets/1d3dfc74-0f31-4a85-98dd-9d61167c660c)
+
+---
+
+### ✍️ Posting & Forms
+
+![Post Property Form](https://github.com/user-attachments/assets/f1033ae2-1c3e-4e3f-a48a-49b219eedc17)
+![Navbar](https://github.com/user-attachments/assets/8fa1e7ff-a6f4-4b5a-8ae9-c6139509ea5f)
+
+---
+
+### 🔐 Auth Screens
+
+![Login Page](https://github.com/user-attachments/assets/de9a65e3-fd74-4545-be2c-2e3d558202e6)
+![Signup Form](https://github.com/user-attachments/assets/63f11929-a77b-4ae5-ba93-423616afb586)
+
 
