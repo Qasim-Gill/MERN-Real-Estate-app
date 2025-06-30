@@ -96,8 +96,8 @@ mern-project/
 
 ## 🌐 Live Demo
 
-Currently not hosted — watch the [📽️ video demo](#) instead  
-*(YouTube link coming soon...)*
+Currently not hosted — watch the [📽️ video demo](https://youtu.be/A-sKXRlz_ew) instead  
+Here is Slides Link [Slides Link](https://www.canva.com/design/DAGrvig5ZcI/CgLGmSprvfUFy5Xaf7ysNg/edit?utm_content=DAGrvig5ZcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
